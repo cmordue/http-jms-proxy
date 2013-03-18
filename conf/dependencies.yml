@@ -1,0 +1,7 @@
+# Application dependencies
+
+require:
+    - play
+    - org.apache.activemq -> activemq-core 5.7.0
+    - org.apache.activemq -> activemq-pool 5.7.0
+    
